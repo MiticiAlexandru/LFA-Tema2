@@ -1,2 +1,2 @@
-# LFA-Tema1
-Tema 1 de la laboratorul de LFA.
+# LFA-Tema2
+Tema 2 de la laboratorul de LFA.
